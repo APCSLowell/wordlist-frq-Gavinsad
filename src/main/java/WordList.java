@@ -27,6 +27,6 @@ if(myList.get(i).length()==len){
 if(myList.get(i).length()==len){myList.remove(i);}
     
   }
-    return myList;
+
   }
 }
